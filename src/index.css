@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+   background: #fef2f2; /* cor real que o bg-red-50 representa */
+}
